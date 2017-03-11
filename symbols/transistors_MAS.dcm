@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BS170
+D 60V Vds 0.5A Id, N-Channel MOSFET, TO-92
+K N-Channel MOSFET
+F http://www.fairchildsemi.com/ds/BS/BS170.pdf
+$ENDCMP
+#
+$CMP RJP020N06
+D 60V Vds 0.5A Id, N-Channel MOSFET, TO-92
+K N-Channel MOSFET
+F http://www.fairchildsemi.com/ds/BS/BS170.pdf
+$ENDCMP
+#
+#End Doc Library

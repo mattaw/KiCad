@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BUF602IDBVT
+D Fast Buffer
+$ENDCMP
+#
+$CMP LM339A
+D Quad comparator.
+K Comp diff
+F op_amps/lm139.pdf
+$ENDCMP
+#
+#End Doc Library
